@@ -1,0 +1,16 @@
+.venv/
+.work/
+Results/
+__pycache__/
+*.pyc
+.DS_Store
+.tmp/
+.pip-cache/
+.uv-profile
+runs/
+models/*.pt
+models/*.onnx
+models/*.engine
+models/*.torchscript
+models/*.tflite
+!models/README.md

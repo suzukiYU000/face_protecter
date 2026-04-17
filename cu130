@@ -1,0 +1,9 @@
+UV_PROFILE=0
+UV_WITH_ONNX=
+UV_PROJECT_ENVIRONMENT=/home/suzuki/.cache/face_mosaic_streamlit_bundle_uv/8b9c992b67ac/.venv
+UV_CACHE_DIR=/home/suzuki/.cache/face_mosaic_streamlit_bundle_uv/8b9c992b67ac/uv-cache
+UV_LINK_MODE=copy
+TMPDIR=/home/suzuki/.cache/face_mosaic_streamlit_bundle_uv/8b9c992b67ac/tmp
+TMP=/home/suzuki/.cache/face_mosaic_streamlit_bundle_uv/8b9c992b67ac/tmp
+TEMP=/home/suzuki/.cache/face_mosaic_streamlit_bundle_uv/8b9c992b67ac/tmp
+PIP_CACHE_DIR=/home/suzuki/.cache/face_mosaic_streamlit_bundle_uv/8b9c992b67ac/pip-cache

@@ -1,0 +1,5 @@
+train: /mnt/d/suzuki/face_mosaic_streamlit_bundle_uv/data/_generated/smoke_train.txt
+val: /mnt/d/suzuki/face_mosaic_streamlit_bundle_uv/data/_generated/smoke_val.txt
+nc: 1
+names:
+  0: face
