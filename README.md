@@ -1,4 +1,6 @@
-# YOLO26 顔モザイクアプリ
+# モザイク処理ツール
+<img width="320" height="180" alt="Gemini_Generated_Image_5f7a7f5f7a7f5f7a" src="https://github.com/user-attachments/assets/8c712b02-c472-41f2-9909-a643b485585f" />
+
 
 動画をアップロードし、**顔検出済みの YOLO26 系モデル**で顔を検出して、顔領域にモザイクをかける Streamlit アプリです。
 
@@ -108,12 +110,7 @@ sudo apt update
 sudo apt install -y ffmpeg
 ```
 
-### 6. 配置場所のおすすめ
 
-次のような **短くて分かりやすいパス** に clone してください。
-
-- Windows: `C:\work\face-mosaic-app`
-- macOS / Linux / WSL: `~/work/face-mosaic-app`
 
 ---
 
@@ -125,7 +122,7 @@ sudo apt install -y ffmpeg
 
 ```powershell
 git clone <REPOSITORY_URL>
-cd face_mosaic_streamlit_bundle_uv
+cd face_protecter
 ```
 
 `models/` に学習済みモデルを配置したあと、次を実行します。
